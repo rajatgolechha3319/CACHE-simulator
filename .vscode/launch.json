@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/darkelixir/Documents/GitHub/CACHE-simulator",
+      "program": "/Users/darkelixir/Documents/GitHub/CACHE-simulator/build/Debug/outDebug"
+    }
+  ]
+}
